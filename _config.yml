@@ -3,9 +3,9 @@ description: "Random site I made."
 author:
   name: "Shamus"
   email: "not your problem"
-  url: "shamus118.github.io"
+  url: "shamus118.github.io/hacker-blog"
 
-baseurl: /hacker-blog
+baseurl: shamus118.github.io/hacker-blog
 
 source: .
 destination: ./_site
