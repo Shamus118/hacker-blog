@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I am 14 and I only made this page because I was bored in class.
